@@ -16,3 +16,5 @@ Classy Cash pomaga skarbnikom klasowym porządkować składki, wpłaty i wydatki
 Rodzice płacą bezpośrednio skarbnikowi na wskazany numer telefonu BLIK lub rachunek bankowy. Classy Cash służy do ewidencji i dopasowania powiadomień.
 
 Wypróbuj [wspólne demo](https://skarbiec.mleczki.pl/) z fikcyjnymi danymi, resetowane co 15 minut. Przygotowujemy prosty sposób uruchomienia własnej instancji na serwerze FROG. Aktualności znajdziesz na [stronie produktu](https://classycash.dpdns.org/).
+
+Jeśli Classy Cash ułatwia Ci życie, możesz dobrowolnie [postawić autorowi kawę ☕](https://suppi.pl/mleczakm). Dziękuję!
